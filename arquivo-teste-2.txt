@@ -3,3 +3,5 @@ olá tudo bem?
 Como você está?
 
 Eu estou bem, e você?
+
+Estou bem.
