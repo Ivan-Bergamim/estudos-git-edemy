@@ -144,3 +144,91 @@ function escrever_nome(nome){
 ```
 
 ## Parte 5
+
+Lista de tarefas
+
+- [x] ~~Acordar~~
+- [x] Levantar
+- [ ] Café-da-manhã
+- [ ] Escovar dentes
+
+Separador de conteudo
+
+---
+
+Referência
+
+[Site ESPN][espn]
+
+[espn]: http://espn.uol.com.br/
+
+O espn é a variavel que recebe o link a frente. Com isso podemos usar essa mesma variável em outros lugares do texto
+
+## Criação do arquivo README.md
+
+### Nome do projeto
+
+> Resumo curto do que esse projeto faz ou é.
+
+Um ou dois paragrafo sobre o projeto e o que ele faz.
+
+Alocação de alguma imagem, ou logotipo, do seu projeto, que possa ser alto explicativo.
+
+### Instalação do pacote/biblioteca/projeto
+
+Instruções de como realizar a instalação, seja quais forem os sistemas operacionais disponíveis
+
+```
+pip install nome-projeto    
+```
+
+
+```
+conda install nome-projeto    
+```
+
+### Algum tipo de exemplo
+
+Alguns exemplos de uso, indicando como utilizado, assim o pra que serve na prática.
+
+```python
+import projeto
+
+objeto = projeto.ALgumaClasse()
+
+print(objeto)
+
+```
+
+Alguns prints da excecução e dividindo em tópicos pequenos para indicação de como se usa.
+
+### Ambiente de desenvolvimento
+
+DEscrição da instalação, assim como as dependencias do mesmo. Assim como indicação de cooperação para com outros usuarios, pois é um projeto open-source. Descrição de plataforma, assim como exemplos nestas plataformas.
+
+## Historio de atualizações
+
+* 0.2.3
+    * Descrição desta versão e o diferencial com relação a outra.
+* 0.2.2
+    * Descrição desta versão e o diferencial com relação a outra.
+* 0.2.1
+    * Descrição desta versão e o diferencial com relação a outra.
+    * É possivel colocar palavras chaves e códigos de muidança, alteração, consero etc.
+    * FIX: concerto da função ``` exmeplo() ```.
+* 0.0.1
+    * Primeira versão
+
+### Meta
+
+Alguma referencia com os nomes dos contribuidores, como:
+* Nome do autor principal
+* Dos coloboradores
+* Links com suas redes sociais
+* Link de um site, se ele existir.
+* Links para documentos de ajuda.
+* Links de onde estão as tags
+
+### Tipo de licença
+
+Indicação da licença do projeto, pois como é algo publico, é necessário que exista alguma sewurança para com as informações colocadas aqui, indicando que você é o autor.
